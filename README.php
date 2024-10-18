@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 @extends('layouts.app')
-
 @section('title', 'Контактная форма')
-
 @section('content')
+
+
     <h2>Контактная форма</h2>
     
     <form id="contactForm" method="POST" class="needs-validation">
